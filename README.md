@@ -1,5 +1,20 @@
+## 👋 About me
 
-## 👋 Sobre mí
+I'm Samuel Álvarez (@00Ssam00), a Software Engineering student and backend developer in training.  
+I mainly work with TypeScript, Node.js, and Fastify, designing and building APIs for web and mobile applications with a focus on clean architecture, clean code, and best practices.
+
+- 🔭 Currently working on: Coordinadora Mercantil
+- 💼 Featured personal project: iuKer (clinical management system)
+- 🌱 Learning: TypeScript, Node.js, clean code, and clean architecture
+- 🧰 Backend stack: TypeScript, Node.js, Fastify, Jest
+- 🔧 Tools: Git, GitHub, Azure DevOps
+- 🗄️ Databases: PostgreSQL
+- 🎯 Current goal: level up to a junior backend developer
+- ⚡ Fun Fact: Simracing enthusiast chasing the best lap time
+
+🌍 **Medellín, CO**
+
+<!--## 👋 Sobre mí
 
 Soy Samuel Álvarez (@00Ssam00), estudiante de Ingeniería de Software y desarrollador backend en formación.  
 Trabajo principalmente con TypeScript, Node.js y Fastify, diseñando y construyendo APIs para aplicaciones web y móviles con enfoque en arquitectura limpia, clean code y buenas prácticas.
@@ -14,26 +29,6 @@ Trabajo principalmente con TypeScript, Node.js y Fastify, diseñando y construye
 
 🌍 **Medellín, CO**
 
----
-
-## 👋 About me
-
-I'm Samuel Álvarez (@00Ssam00), a Software Engineering student and backend developer in training.  
-I mainly work with TypeScript, Node.js, and Fastify, designing and building APIs for web and mobile applications with a focus on clean architecture, clean code, and best practices.
-
-- 🔭 Currently working on: Coordinadora Mercantil 🚚
-- 💼 Featured personal project: iuKer (clinical management system)
-- 🌱 Learning: TypeScript, Node.js, clean code, and clean architecture
-- 🧰 Backend stack: TypeScript, Node.js, Fastify, Jest
-- 🗄️ Databases: PostgreSQL
-- 🎯 Current goal: level up to a junior backend developer
-- ⚡ Fun Fact: Simracing enthusiast chasing the best lap time
-
-🌍 **Medellín, CO**
-
-
-
-<!--
 **00Ssam00/00Ssam00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
