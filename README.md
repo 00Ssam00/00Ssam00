@@ -3,7 +3,7 @@
 I'm Samuel Álvarez (@00Ssam00), a Software Engineering student and backend developer in training.  
 I mainly work with TypeScript, Node.js, and Fastify, designing and building APIs for web and mobile applications with a focus on clean architecture, clean code, and best practices.
 
-- 🔭 Currently working on: Coordinadora Mercantil
+- 🚚 Currently working on: Coordinadora Mercantil
 - 💼 Featured personal project: iuKer (clinical management system)
 - 🌱 Learning: TypeScript, Node.js, clean code, and clean architecture
 - 🧰 Backend stack: TypeScript, Node.js, Fastify, Jest
