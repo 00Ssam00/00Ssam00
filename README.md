@@ -1,4 +1,3 @@
-<div align="center">
 
 ## 👋 Sobre mí
 
@@ -31,9 +30,6 @@ I mainly work with TypeScript, Node.js, and Fastify, designing and building APIs
 - ⚡ Fun Fact: Simracing enthusiast chasing the best lap time
 
 🌍 **Medellín, CO**
-
-</div>
-
 
 
 
